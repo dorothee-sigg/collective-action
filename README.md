@@ -1,2 +1,4 @@
-# collective-action
+# Collective Actions
 This is an incomplete list of collective action cases in an algorithmic context. 
+
+
