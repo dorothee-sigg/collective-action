@@ -1,0 +1,1 @@
+# FoggySight – Facial Recognition Privacy
