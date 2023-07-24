@@ -4,7 +4,7 @@ This is an incomplete list of collective action cases in an algorithmic context.
 
 |cases ↓|short case description|who are the participants|area|type of strategy (information vs. joint strategy)|more fine-grained category|
 |:----|:----|:----|:----|:----|:----|
-|[Amazon Mechanical Turk – TurkerView & Co.](/cases/mturk)|collecting many ratings on requester, sharing individual strategies on how to accomplish tasks|workers|Gig Economy|information-based|aggregating data, exchange of individual strategies|
+|[Amazon Mechanical Turk – TurkerView & Co.](/cases/mturk.md)|collecting many ratings on requester, sharing individual strategies on how to accomplish tasks|workers|Gig Economy|information-based|aggregating data, exchange of individual strategies|
 |Uber Surge Verification Groups|Uber drivers notify each other whether an indicated surge area turned out to be profitable (or just a bait to drive there)|workers|Gig Economy|information-based|aggregating data|
 |John Deere Tractorhacking|John Deere has strict security on electical components of their tractors which makes it difficult for tractor owners and mechanics to repair them. The hacked software is shared online.|tractor-owner, software-hacker, mechanics| |information-based|exchange of individual strategies|
 |Truck Drivers Facing Surveillance| |workers| |information-based|exchange of individual strategies|
