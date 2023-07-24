@@ -2,7 +2,7 @@
 
 This is an incomplete list of collective action cases in an algorithmic context.
 
-|case ↓|short case description|who are the participants|area|type of strategy (information vs. joint strategy)|more fine-grained category|
+|cases ↓|short case description|who are the participants|area|type of strategy (information vs. joint strategy)|more fine-grained category|
 |:----|:----|:----|:----|:----|:----|
 |Amazon Mechanical Turk – TurkerView & Co.|collecting many ratings on requester, sharing individual strategies on how to accomplish tasks|workers|Gig Economy|information-based|aggregating data, exchange of individual strategies|
 |Uber Surge Verification Groups|Uber drivers notify each other whether an indicated surge area turned out to be profitable (or just a bait to drive there)|workers|Gig Economy|information-based|aggregating data|
