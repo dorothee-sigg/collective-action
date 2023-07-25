@@ -19,5 +19,5 @@ Further reading: For an interesting analysis why collective action among Turkers
 [1] https://www.reddit.com/r/TurkerNation/   
 [2] https://www.mturkcrowd.com/    
 [3] https://turkerview.com/   
-[4] https://turkopticon.net/
+[4] https://turkopticon.net/    
 [5] [Salehi, N., Irani, L. C., Bernstein, M. S., Alkhatib, A., Ogbe, E., Milland, K., & Clickhappier. (2015, April). We are dynamo: Overcoming stalling and friction in collective action for crowd workers. In Proceedings of the 33rd annual ACM conference on human factors in computing systems (pp. 1621-1630).] (https://doi.org/10.1145/2702123.2702508)
