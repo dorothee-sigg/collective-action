@@ -1,5 +1,7 @@
 # FoggySight – Facial Recognition Privacy
 
+Disclaimer: This is not (yet) a concrete case as far as I know – so far this is only an idea described in a paper.   
+
 ## Description
 
 FoggySight [0] is an anti-facial recognition technology with the aim to enhance privacy in facial lookup settings. It is specifically designed to the situation that companies have already scraped images from social media and already hold a large database of labeled face images. Facial lookup setting refers to a situation where someone wants to know the identity of a person based on an image. He then queries this large look-up database of labeled face images (or the company which owns it). As an output he might be given the top-k matching identities to his query.   
