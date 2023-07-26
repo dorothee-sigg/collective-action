@@ -1,4 +1,4 @@
-# Instacarte – \#DeleteInstacart
+# Instacart – \#DeleteInstacart
 
 ## Description
 
