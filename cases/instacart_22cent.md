@@ -2,8 +2,8 @@
 
 ## Description
 
-Until 2019 Instacart, as many other gig companies, used customers’ tips to subsidized the wages for the workers [0]. That is, more tips didn’t mean more money for the driver – instead the tips were paying Instacart so to say.    
-A strategy to circumvent that was to pay less tips upfront, and then pay more tips for the driver in cash at the door or change the amount of tips in the app afterwards. Tipping 22 cents upfront was a signal for the driver that the customer knew what was going on – and could expect to get more when the delivery was completed [1].   
+Until February 2019 Instacart, as many other gig companies, used customers’ tips to subsidized the wages for the workers [0]. That is, more tips didn’t mean more money for the driver – instead the tips were paying Instacart so to say.    
+In January 2019 Bloomberg [1] reported how workers and customers are getting ahead of this rip-off. The strategy to circumvent that was to pay less tips upfront, and then pay more tips for the driver in cash at the door or change the amount of tips in the app afterwards. Tipping 22 cents upfront was a signal for the driver that the customer knew what was going on – and could expect to get more when the delivery was completed.    
 
 ## Aspects of Coordination
 
