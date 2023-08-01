@@ -2,7 +2,7 @@
 
 This is an incomplete list of collective action cases in an algorithmic context. It's important to note that some of the strategies described here no longer work, e.g. due to changes in the algorithm. At the same time, it is unclear for some strategies how successful and effective they are or were. 
 
-TODO: Provide explanations for the categories: [I] = information-based, [S] = strategy-based, data poisoning, obfuscation, algorithmic leverage
+Find short descriptions of the different categories [here](categories.md).
 
 
 | **case ↓**           | **short case description**                                                                                                                                     | **participants**                          | **area**     | **category**                                           | **short explanation for category**                                                                               | **benefit for participants**                                                         | **coordination aspects (if known)**  |
