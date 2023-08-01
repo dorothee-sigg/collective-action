@@ -8,7 +8,7 @@ One prominent example is about the former US senator Rick Santorum. After he mad
 
 Around the same time the Blogger George Johnston [3] successfully linked the search term ‚miserable failure‘ to the entry of George W. Bush’s biography on the White House website. Interestingly one still finds Johnston’s original call for action [4]:  
 
-![Johnston Blog call 2003](googlebombs_johnstonblog.png)
+![Johnston Blog call 2003](/googlebombs_johnstonblog.png)
  
 
 ## Sources
