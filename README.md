@@ -1,6 +1,9 @@
-# Collective Actions
+# Collective Actions in an Algorithmic Context
 
-This is an incomplete list of collective action cases in an algorithmic context.
+This is an incomplete list of collective action cases in an algorithmic context. It's important to note that some of the strategies described here no longer work, e.g. due to changes in the algorithm. At the same time, it is unclear for some strategies how successful and effective they are or were. 
+
+Click [here](categories.md) to find short descriptions of the categories. 
+
 
 | **property →               case ↓**           | **short case description**                                                                                                                                     | **participants**                          | **area**     | **category**                                            | **short explanation for category**                                                                                  | **benefit for participants**                                                         | **organization/coordination aspects (if known)**  |
 |-----------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------|--------------|---------------------------------------------------|-----------------------------------------------------------------------------------------------------|------------------------------------------------------------|-----------|
