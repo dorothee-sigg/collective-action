@@ -12,7 +12,7 @@ One article from February 2021 [2] reports that back then drivers could hack thi
 
 The same article [2] mentions an experiment carried out by drivers organized in a facebook group. One half of the group accepted every order while the other half selectively declined low-paying orders. Results were that drivers who accepted everything earned $0.68 per mile with a gross hourly wage of $12.41. Drivers who selectively declined earned $1.26 per mile with a gross hourly wage of $21.15. However, I was not able to find more information about this experiment.   
 
-There is a another campaign by Working Washington which essentially propagates the same strategy of „joining together to make DoorDash pay up by rejecting ALL jobs that offer less than $6“ [4]. Additionally the campaign suggests to reject all offers that pay less than $1 per mile of driving. They coined the hashtag #NoFreeLunch for their campaing.    
+There is another campaign by Working Washington which essentially propagates the same strategy of „joining together to make DoorDash pay up by rejecting ALL jobs that offer less than $6“ [4]. Additionally the campaign suggests to reject all offers that pay less than $1 per mile of driving. They coined the hashtag #NoFreeLunch for their campaign.    
 Interested readers may also have a look at the corresponding Working Washingtons data analysis about Dasher pay [5]. To my knowledge this is a unique data collection in the sense that it provides pay data from  Dashers itself – which turn out to be in extreme contrast to what DoorDash promotes.   
 
 
