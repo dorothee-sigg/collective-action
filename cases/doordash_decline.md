@@ -19,7 +19,7 @@ Interested readers may also have a look at the corresponding Working Washingtons
 ## Aspects of Coordination 
 
 #DeclineNow is mainly organized via a facebook group with 40,000+ members. The group has very strict rules and moderators regularly kick out people for not complying with these rules [0]. For instance, it is not allowed to promote high acceptance rates since this is supposed to be in direct contradiction with declining. Veena Dubal, a law professor at UC Hastings Law, comments that „it’s actually quite hard to get people to adhere to these types of collective actions if there’s not some kind of consequence“ [0].   
-The group also serves to support each other and members regularly post unacceptable orders beyond fair pay.   
+The group also serves to support each other and members regularly post screenshots of unacceptable orders beyond fair pay.   
 
 The #NoFreeLunch campaign offers a web-based interface to enter the zip-code if you are a participating driver. A map indicates how many drivers are already participating in the US.   Currently (August 2023) there are roughly 1800 registered participants.   
 
