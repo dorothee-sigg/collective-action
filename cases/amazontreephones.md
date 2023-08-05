@@ -16,7 +16,7 @@ The tree-phones seem to serve multiple drivers. So, even though the drivers are 
 ## Countermeasures
 
 An article from Spencer Soper, the journalist who wrote the original Bloomberg article, suggests that a couple of days after the article Amazon seemingly created a ‚dead zone‘ around Whole Food stores and delivery stations [3]. This means that within that area drivers will not receive instant offers. This is not just a remedy to the tree-phone incident but also to the larger problem of workers crowding the parking lots waiting for jobs.  
-Posts on reddit support that [4]. Furthermore, as one reddit user suspects this countermeasure might not be very sustainable: „…eventually someone will figure out 3 miles or whatever is the minimum and just find a new place to camp there. I don’t think amazon really cares beyond keeping them out of the parking lot.“ [4]   
+Posts on reddit support that [4]. Furthermore, as one reddit user suspects this countermeasure might not sustainably eliminate the root of the problem: „…eventually someone will figure out 3 miles or whatever is the minimum and just find a new place to camp there. I don’t think amazon really cares beyond keeping them out of the parking lot.“ [4]   
 
 ## Sources
 
