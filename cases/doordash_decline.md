@@ -2,7 +2,7 @@
 
 ## Description
 
-In 2019 two DoorDash drivers, Dave Levy and Nikos Kanelopoulos, started the campaign #DeclineNow. Since then they constantly try to persuade their peer Dashers – as DoorDash driver are called – to reject low-paying deliveries. They hypothesize that the DoorDash algorithm responds by increasing the payment.   
+In 2019 two DoorDash drivers, Dave Levy and Nikos Kanelopoulos, started the campaign #DeclineNow. Since then they constantly try to persuade their peer Dashers – as DoorDash drivers are called – to reject low-paying deliveries. They hypothesize that the DoorDash algorithm responds by increasing the payment.   
 As a pinned statement from their facebook group reads: „The fundamental principles of the OFFICIAL #DECLINENOW movement rely upon all drivers in the movement to exercise their right to use the decline button to decline lowball offers for higher, more logistically feasible and profitable ones. Declining lowball offers FORCES the algorithm to raise the base pay UP on the declined offer for SUBSEQUENT drivers as the NEED for DoorDash to service the order increases.“   
 This is similar to a reverse auction: If no driver wants to delivery the order at the given price the price gets increased up until a driver is willing to deliver it. There is no way of knowing from the outside if the algorithm really works that way. However, Levy and Kanelopoulos as well as other drivers experienced this, namely when one driver declines an orders it is often re-offered to another driver with slightly increased payment of e.g. $0.25.   
 The two initiators are now trying to get as many Dashers as possible to decline orders below the threshold of $7 – while DoorDash’s official minimum base pay (i.e. without tips or bonuses) is at $2 [1].   
