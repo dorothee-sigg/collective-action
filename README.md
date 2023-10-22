@@ -1,4 +1,4 @@
-# Collective Actions in an Algorithmic Context
+# Collective Actions Against Algorithms
 
 This is an incomplete list of collective action cases in an algorithmic context. It's important to note that some of the strategies described here no longer work, e.g. due to changes in the algorithm. At the same time, it is unclear for some strategies how successful and effective they are or were. 
 
