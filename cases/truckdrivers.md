@@ -10,14 +10,14 @@ Instead of addressing the underlying conditions that give rise to lawbreaking, r
 
 Additionally, ELDs do not only record driving hours. In practice, they capture a whole range of other information, far beyond driving hours. It can include a driver’s fuel efficiency and idling time, speed, geolocation and geofencing (notifying a dispatcher if a truck has departed from a predetermined route), lane departures and braking/acceleration patterns, freight status (such as the temperature of a refrigerated trailer), tire inflation, vehicle maintenance and diagnostic information. Additionally, some systems have dashboard cameras, facing outward to capture the road and facing inward to record the driver. 
 According to Levy these systems however fail to capture relevant information, e.g. the time a driver spends until the truck is (un-)loaded – time which is usually unpaid for a driver.  
-Truck drivers who oftentimes chose this professiong for its independece find their truck (workplace and living place at the same time) under increasing surveillance. However, with the widespread adoption of ELDs in the industry, strategies for noncompliance and resistance have also developed. Here is a selection of collective strategies, not all of them explicitly work on an algorithmic level, but are still interesting. 
+Truck drivers who oftentimes chose this professiong for its independece find their truck (workplace and living place at the same time) under increasing surveillance. However, with the widespread adoption of ELDs in the industry, strategies for noncompliance and resistance have also developed. Here is a selection of collective strategies, not all of them explicitly work on an algorithmic level. 
 
 ## Description
 
 1. Collective brute-force destruction    
 A former driver reports that when his firm rolled out timing devices for all their trucks all drivers engaged in a collective action: They disabled the device by hitting it with a hammer. After a week, the company gave up, presumably assuming that the devices did not work.  
 
-2. Collective information sharing  
+2. Collective information sharing: Exchanging of individual strategies 
 Truck drivers share their tips on how to get rid of tracking tools by posting it to message boards. For instance, they share which wires to unplug, or how to wrap Aluminum foil around a device to prevent it from transmitting information. 
 
 3. Sharing log-in information  
