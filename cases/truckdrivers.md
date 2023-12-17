@@ -14,10 +14,10 @@ Truck drivers who oftentimes chose this professiong for its independece find the
 
 ## Description
 
-1. C**ollective brute-force destruction**    
+1. **Collective brute-force destruction**    
 A former driver reports that when his firm rolled out timing devices for all their trucks all drivers engaged in a collective action: They disabled the device by hitting it with a hammer. After a week, the company gave up, presumably assuming that the devices did not work.  
 
-2. **Collective information sharing: Exchanging of individual strategies** 
+2. **Collective information sharing: Exchanging of individual strategies**    
 Truck drivers share their tips on how to get rid of tracking tools by posting it to message boards. For instance, they share which wires to unplug, or how to wrap Aluminum foil around a device to prevent it from transmitting information. 
 
 3. **Sharing log-in information**    
