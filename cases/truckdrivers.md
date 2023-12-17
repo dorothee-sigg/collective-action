@@ -14,19 +14,19 @@ Truck drivers who oftentimes chose this professiong for its independece find the
 
 ## Description
 
-1. Collective brute-force destruction    
+1. C**ollective brute-force destruction**    
 A former driver reports that when his firm rolled out timing devices for all their trucks all drivers engaged in a collective action: They disabled the device by hitting it with a hammer. After a week, the company gave up, presumably assuming that the devices did not work.  
 
-2. Collective information sharing: Exchanging of individual strategies 
+2. **Collective information sharing: Exchanging of individual strategies** 
 Truck drivers share their tips on how to get rid of tracking tools by posting it to message boards. For instance, they share which wires to unplug, or how to wrap Aluminum foil around a device to prevent it from transmitting information. 
 
-3. Sharing log-in information  
+3. **Sharing log-in information**    
 To authenticate themselves, drivers typically need to log into the system using a username and password with the majority of ELDs. Drivers have often access to multiple usernames and passwords, potentially because drivers share them among each other. This is useful when a driver has reached the legal driving limits but has reason to continue (e.g. because he needs to drive to a parking lot). Then he can log off and log in under a different username without going beyond his driving limits. 
 
-4. Slow roll #BlackSmokeMatters
+4. **Slow roll #BlackSmokeMatters**   
 In 2019, within a facebook group of 25,000 members, truckers organized a "slow roll" around Indianapolis. The idea was to protest by rolling on the minimum allowable highway speed (45 mile per hour) to raise awareness around the ELD prolematic. In the end, there were only 78 drivers participating. Very similar turnouts happened at a slow roll in Chicago. Having had a nationwide shutdown in mind as a lever to the ELD politics the organizers admitted that it did not turn out to make a significant impact. 
 
-5. Collaboration between drivers and truck stops
+5. **Collaboration between drivers and truck stops**   
 An interesting strategy arises from the collaboration between truck drivers and truck stops. The logs of truck drivers are regularly being checked by law enforcement officers, regardless if the log is paper-based or electronic. The driver has to supply documents that verify the log. Truckers are required to keep these documents to help the inspector assess whether the driver’s logs are accurate with respect to when he was at a given location. This could be documents such as bills, toll slips or receipts for fuel or other goods. 
 
 
