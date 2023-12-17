@@ -7,10 +7,10 @@
 
 * **collective strategizing**: people agree upon and execute a joint strategy beyond sharing information, oftentimes require more coordination than collective information sharing
     + data leverage: power derived from computing technologies’ dependence on human-generated data [0]
-          + data poisoning: inserting inaccurate or harmful training data [0]   
-          + data obfuscation: producing misleading, false, or ambiguous data with the intention of confusing an adversary or simply adding to the time or cost of separating bad data from good [1]
-          + data strikes: withholding or deleting data [0]
-          + conscious data contribution: contributing data to a an organization they support to increase market competition [0]
+        + data poisoning: inserting inaccurate or harmful training data [0]   
+        + data obfuscation: producing misleading, false, or ambiguous data with the intention of confusing an adversary or simply adding to the time or cost of separating bad data from good [1]
+        + data strikes: withholding or deleting data [0]
+        + conscious data contribution: contributing data to a an organization they support to increase market competition [0]
     + algorithmic leverage: power derived from exploiting the mech- anisms or features of an algorithm, exerted when a group interacts with an algorithm in a strategic way in order to influence the outcome to the group’s or a group member’s benefit, can be done through coordinated use of a feature (as a group), overusing a feature or not using a feature
 
 ## Sources
