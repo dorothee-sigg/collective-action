@@ -1,14 +1,17 @@
 # Categories
 
-* information-based: people exchange or collect pieces of information, collected information is usually more than a single person could know or find out in a reasonable amount of time  
-    + exchanging individual strategies  
-    + collective sensemaking  
-    + aggregating data, e.g. data cooperatives  
+* **collective information sharing**: people collect and exchange information, collected information is usually more than a single person could know or find out (in a reasonable amount of time)  
+    + exchanging individual strategies: individual strategies are exchanged and made accessible for a larger group through online forums, mes- senger services or social media   
+    + collective algorithmic knowledge: joining efforts of deciphering the black-box of the algorithm
+    + aggregating data: from very aggregating data within small groups up to data cooperatives 
 
-* strategy-based: people agree upon and execute a joint strategy beyond sharing information. In most cases this requires a certain amount of coordination and oftentimes the strategy is time-dependent e.g. happens on a specific day  
-    + data poisoning: inserting inaccurate or harmful training data [0]   
-    + data obfuscation: producing misleading, false, or ambiguous data with the intention of confusing an adversary or simply adding to the time or cost of separating bad data from good [1]  
-    + algorithmic leverage: strategically exploiting features of an algorithm in order to influence the outcome to the group's or a group member's benefit, either through coordinated use of a feature (as a group), overusing a feature or not using a feature  
+* **collective strategizing**: people agree upon and execute a joint strategy beyond sharing information, oftentimes require more coordination than collective information sharing
+    + data leverage: power derived from computing technologies’ dependence on human-generated data [0]
+          + data poisoning: inserting inaccurate or harmful training data [0]   
+          + data obfuscation: producing misleading, false, or ambiguous data with the intention of confusing an adversary or simply adding to the time or cost of separating bad data from good [1]
+          + data strikes: withholding or deleting data [0]
+          + conscious data contribution: contributing data to a an organization they support to increase market competition [0]
+    + algorithmic leverage: power derived from exploiting the mech- anisms or features of an algorithm, exerted when a group interacts with an algorithm in a strategic way in order to influence the outcome to the group’s or a group member’s benefit, can be done through coordinated use of a feature (as a group), overusing a feature or not using a feature
 
 ## Sources
 
