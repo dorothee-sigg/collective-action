@@ -1,7 +1,7 @@
 # Food Delivery in China – Restaurant-Driver Cooperation
 
 As a preliminary remark, food delivery in China is much more dangerous and precarious as compare to the U.S. or Europe. For instance, drivers are give a time-limit in which they must complete the order. Otherwise they do not get the full wage downgrade their ratings and brings sometimes negative consequences to fellow drivers, even if they did nothing wrong. 
-Over the years, these time limits dropped – the system just swallows time without the delivery process being any different. This puts all the duty on the drivers who need to make these high-speed deliveries feasible. Dangerous driving behaviours like exceeding speed limits, running over red lights or driving on the opposite lane is common. It is reported that the latter is sometimes suggested by some companie's navigation tool for the drivers.   
+Over the years, these time limits dropped – the system just swallows time without the delivery process being any different. This puts all the duty on the drivers who need to make these high-speed deliveries feasible. Dangerous driving behaviours like exceeding speed limits, running over red lights or driving on the opposite lane is common. It is reported that the latter is sometimes suggested by some company's navigation tool for the drivers.   
 Needless to say that the death and accident rates among drivers have exploded. Most of them are more concerned about on-time delivery than their health - it is said that the first thing a Chinese delivery driver does after an accident is to check whether the food has been spilt. [0]
 
 ## Description 
