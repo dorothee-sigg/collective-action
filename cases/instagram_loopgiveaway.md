@@ -13,5 +13,5 @@ However, loop giveaways are also somewhat controversial, as some users see them 
 
 ## Sources
 
-[0] https://jumpermedia.co/all-about-instagram-loop-giveaways/#:~:text=A%20Loop%20Giveaway%20is%20a,the%20influencer%20and%20the%20prizes   
+[0] https://jumpermedia.co/all-about-instagram-loop-giveaways/   
 [1] https://www.vice.com/de/article/88najz/loop-giveaways-das-riesengeschaft-mit-echten-followern-auf-instagram (in german)
