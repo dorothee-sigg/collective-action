@@ -12,7 +12,7 @@ The campaign was supported by Working Washington, a US-based workers organizatio
 
 ## Sources
 
-[0] https://techcrunch.com/2019/02/06/instacart-ceo-apologizes-for-tipping-debacle/?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAALhv2wFRSyN1B5_u456l30D6XHpAAjcBS90AQ8b-9l1Q4yEYGkkcL8aOi5gJcBsFfqTHCRbDKOBosI5k64vZMn1LSQsa3TqJhkCrDG_zwdGlH8Xlbpo-84wyGszf5_wIl7M4KeCt6QpR09cg2ROK12lkRkAJ4NEbAfFJuCIfVLQ4   
+[0] https://techcrunch.com/2019/02/06/instacart-ceo-apologizes-for-tipping-debacle/   
 [1] https://www.bloomberg.com/news/articles/2019-01-17/these-instacart-workers-want-you-to-leave-them-a-22-cent-tip#xj4y7vzkg   
 article is freely accessible on medium:    
 https://medium.com/bloomberg/these-instacart-workers-want-you-to-leave-them-a-22-cent-tip-893ede6674ce    
