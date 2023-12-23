@@ -8,4 +8,4 @@ Success: The song made it to the first place on the Spotify charts ranking.
 
 ## Sources 
 
-[0] https://futurezone.at/digital-life/fans-brasilianerin-saengerin-anitta-tricks-manipulation-spotify-charts-spitze/401969165   
+[0] [https://futurezone.at/digital-life/fans-brasilianerin-saengerin-anitta-tricks-manipulation-spotify-charts-spitze/401969165](https://restofworld.org/2022/anitta-fans-spotify-brazil-global-chart/)https://restofworld.org/2022/anitta-fans-spotify-brazil-global-chart/   
