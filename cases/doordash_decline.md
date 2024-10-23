@@ -15,6 +15,8 @@ The same article [2] mentions an experiment carried out by drivers organized in 
 There is another campaign by Working Washington which essentially propagates the same strategy of „joining together to make DoorDash pay up by rejecting ALL jobs that offer less than $6“ [4]. Additionally the campaign suggests to reject all offers that pay less than $1 per mile of driving. They coined the hashtag #NoFreeLunch for their campaign.    
 Interested readers may also have a look at the corresponding Working Washingtons data analysis about Dasher pay [5]. To my knowledge this is a unique data collection in the sense that it provides pay data from  Dashers itself – which turn out to be in extreme contrast to what DoorDash promotes.   
 
+Sigg et al. (2024) [6] propose a combinatorial model to simulate the strategy and the pay dynamics in order to identify market conditions which determine the success of the strategy.   
+
 
 ## Aspects of Coordination 
 
@@ -30,4 +32,5 @@ The #NoFreeLunch campaign offers a web-based interface to enter the zip-code if 
 [2] https://www.vice.com/en/article/3anwdy/organized-doordash-drivers-declinenow-strategy-is-driving-up-their-pay   
 [3] https://entrecourier.com/delivery/gig-delivery-platforms/doordash/doordash-strategies/deactivation-dash-utility-5-63-6-dash-utility-doordash/   
 [4] https://payup.wtf/no-free-lunch   
-[5] https://payup.wtf/doordash/no-free-lunch-report  
+[5] https://payup.wtf/doordash/no-free-lunch-report   
+[6] [Sigg, D., Hardt, M., & Mendler-Dünner, C. (2024). Decline Now: A Combinatorial Model for Algorithmic Collective Action. arXiv preprint arXiv:2410.12633.](https://arxiv.org/pdf/2410.12633)
