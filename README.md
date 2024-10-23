@@ -1,10 +1,10 @@
 # Documented Cases of Algorithmic Collective Action
 
-This is an ongoing list of algorithmic collective action cases. We encourage you to contribute to it by creating a markdown file with the case and opening a pull request. Also, please reach out if you think that a specific case needs to be updated. 
+This is an ongoing list of algorithmic collective action cases. We encourage you to contribute to it by creating a markdown file with the case and opening a pull request. 
 
 For more background and related work see [Sigg et al. (2024)](https://arxiv.org/pdf/2410.12633). 
 
-It's important to note that some of the strategies described here no longer work, e.g. due to changes in the algorithm. For many strategies it is unclear how successful and effective they are or were or how many people participated. Lastly, some strategies described here are more like prototypes or proof-of-concepts, but they nevertheless provide value by their ideas. 
+Note that some of the strategies described here no longer work, e.g. due to changes in the algorithm. For many strategies it is unclear how successful and effective they are or were or how many people participated. Lastly, some strategies described here are more like prototypes or proof-of-concepts, but they nevertheless provide value by their ideas. 
 
 We group the cases by the mechanism they apply as a lever. This can be:   
 - **Collective information sharing**   
