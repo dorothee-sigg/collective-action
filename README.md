@@ -7,10 +7,10 @@ For more background and related work see [Sigg et al. (2024)](https://arxiv.org/
 It's important to note that some of the strategies described here no longer work, e.g. due to changes in the algorithm. For many strategies it is unclear how successful and effective they are or were or how many people participated. Lastly, some strategies described here are more like prototypes or proof-of-concepts, but they nevertheless provide value by their ideas. 
 
 We group the cases by the mechanism they apply as a lever. This can be:   
-**Collective information sharing**   
+- **Collective information sharing**   
 Digital platforms are often characterized by a high degree of information asymmetry between platform participants and platform owners. Workers have started to engage in information sharing strategies of different kind to counter this information balance. Examples include building up knowledge how the algorithm works, exchanging individual strategies to make them available to a larger group of users, or aggregating data as part of a data cooperative. 
 
-**Collective strategizing**   
+- **Collective strategizing**   
 This refers to cases where people agree upon and execute a joint strategy which often requires coordination as it might happen at a dedicated time or place. This can be viewed as a collective strategy during *deployment time* as it leverages certain aspects of the algorithm when deployed.  
 Moreover, the reliance of machine learning powered platforms on human-generated data during *training time* offers an additional lever for workers to exploit, e.g. by manipulating, poisoning or withholding training data. 
 
